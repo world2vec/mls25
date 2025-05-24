@@ -2,5 +2,5 @@
 
 # resource
 
-- [gigaspeech2 ds](speechcolab/gigaspeech2)
+- [gigaspeech2 ds](https://huggingface.co/datasets/speechcolab/gigaspeech2)
 - [GigaSpeech2](https://github.com/SpeechColab/GigaSpeech2)
