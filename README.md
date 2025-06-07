@@ -5,3 +5,4 @@
 - [gigaspeech2 ds](https://huggingface.co/datasets/speechcolab/gigaspeech2)
 - [GigaSpeech2](https://github.com/SpeechColab/GigaSpeech2)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [zh dialog](https://www.cnblogs.com/chenyirong/p/16342324.html)
