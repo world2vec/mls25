@@ -1,0 +1,48 @@
+#--find-links https://k2-fsa.github.io/k2/cuda.html
+jupyterlab
+ipywidgets
+matplotlib
+pysocks
+tqdm
+psutil
+
+
+
+pandas==2.1.4
+scikit-learn==1.2.2
+#unbabel-comet==2.2.6
+#datasets==3.2.0
+#vllm==0.9.1
+nltk==3.9.1
+librosa==0.9.2
+#k2==1.24.4.dev20250425+cuda12.8.torch2.7.0
+../data/k2-1.24.4.dev20250425+cuda12.8.torch2.7.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+#../data/k2-1.24.4.dev20250425+cuda12.6.torch2.7.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+lhotse==1.30.3
+tensorboard==2.19.0
+
+
+# firered
+kaldi_native_fbank==1.21.1
+kaldiio==2.18.1
+peft==0.15.2
+
+#openai==1.82.1
+httpx[socks]
+google-genai==1.17.0
+bitsandbytes==0.46.0
+#flash-attn==2.7.4
+
+autoawq==0.2.9
+
+# dolphi
+#pydub==0.25.1
+#typeguard==2.13.3
+
+# modelscope
+#modelscope==1.26.0
+#addict==2.4.0
+#funasr==1.2.6
+
+galore_torch==1.0
+apollo-torch==1.0.3
